@@ -5,4 +5,3 @@ Positional shot predictor using the 2016 Chicago Bulls Shot Data
 
 
 
-
