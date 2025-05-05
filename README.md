@@ -8,6 +8,7 @@ The NBA Shot Selection Analysis system serves to:
 2. Train machine learning models to predict shot outcomes
 3. Visualize shot patterns and player performance
 4. Provide an interactive web interface for shot prediction
+![Screenshot](spc.png)
 
 ## System Architecture
 The system follows a data pipeline architecture where raw shot data is processed, analyzed, and used to train a machine learning model. The trained model is then deployed in a web application for interactive use.
