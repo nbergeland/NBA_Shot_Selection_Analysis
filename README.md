@@ -14,7 +14,7 @@ The NBA Shot Selection Analysis system serves to:
 The system follows a data pipeline architecture where raw shot data is processed, analyzed, and used to train a machine learning model. The trained model is then deployed in a web application for interactive use.
 
 ### Data Flow
-
+![Screenshot](df.png)
 ## Key Components
 The system consists of the following key components:
 
@@ -43,10 +43,12 @@ The system consists of the following key components:
 
 ## Machine Learning Model
 The shot prediction model is built using a Gradient Boosting Classifier that analyzes various factors to predict shot outcomes.
+![Screenshot](mlm.png)
 
 
 ## Web Application Structure
 The web application provides an interactive interface for users to predict shot outcomes based on selected parameters.
+![Screenshot](was.png)
 
 ## System Workflow
 The end-to-end workflow of the system follows these steps:
