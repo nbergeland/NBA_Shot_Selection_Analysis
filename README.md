@@ -1,6 +1,8 @@
 # NBA_Shot_Selection_Analysis Overview
 This document provides a technical overview of the NBA Shot Selection Analysis system. This system analyzes shot data from the 2016 Chicago Bulls to predict shot outcomes based on various factors including shot location, player position, and game context. The system combines data processing, machine learning, and web visualization to create an interactive shot prediction tool.
 
+![bad-data-data-quality](https://github.com/user-attachments/assets/c7cccd6e-9a8b-4f4a-bd7d-53f5560f16f4)
+
 ## System Purpose and Components
 The NBA Shot Selection Analysis system serves to:
 
